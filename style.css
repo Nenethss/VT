@@ -56,6 +56,10 @@ a, a:hover, a:active, a:visited {
   right: 50px;
 }
 
+#sceneList .scenes {
+visibility: hidden;
+}
+
 /* If there is a fullscreen button the title bar must make space for it */
 body.fullscreen-enabled #titleBar {
   right: 80px;
